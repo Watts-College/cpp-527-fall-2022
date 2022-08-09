@@ -8,27 +8,27 @@ canvas:
 yellowdig_url: 'https://canvas.asu.edu/courses/99223/assignments/2552420'
 
 yellowdig: 
-  post-01: 'Friday, August 20th'
-  post-02: 'Friday, August 27th' 
-  post-03: 'Friday, September 3rd' 
-  post-04: 'Friday, September 10th' 
-  post-05: 'Friday, September 17th' 
-  post-06: 'Friday, September 24th' 
-  post-07: 'Friday, October 4th' 
+  post-01: 'Friday, August 19th'
+  post-02: 'Friday, August 26th' 
+  post-03: 'Friday, September 2nd' 
+  post-04: 'Friday, September 9th' 
+  post-05: 'Friday, September 16th' 
+  post-06: 'Friday, September 23rd' 
+  post-07: 'Friday, October 7th' 
   
 
 labs:
-  lab-01:  'Thursday, Aug 26th' 
-  lab-02:  'Tuesday, August 31st'
-  lab-03:  'Thursday, September 9th'
-  lab-04:  'Tuesday, September 14th'
-  lab-05:  'Tuesday, September 21st'
-  lab-06:  'Monday, October 1st'
+  lab-01:  'Thursday, Aug 25th' 
+  lab-02:  'Tuesday, August 30th'
+  lab-03:  'Thursday, September 8th'
+  lab-04:  'Tuesday, September 13th'
+  lab-05:  'Tuesday, September 20th'
+  lab-06:  'Monday, October 3rd'
   
   
 projects: 
-  r-package:  'Friday, September 10th'
-  report-template:  'Friday, October 8th'
+  r-package:  'Friday, September 9th'
+  report-template:  'Friday, October 7th'
   code-through:  'Optional'
   
   
