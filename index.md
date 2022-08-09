@@ -20,7 +20,7 @@ info:
  class_meets_where:  'https://asu.zoom.us/j/87540573400'
  review_sessions_when: Monday, 12pm AZ 
  review_sessions_where: Zoom
- discussion_board_url: 'https://watts-college.github.io/cpp-527-fall-2021/help/'
+ discussion_board_url: 'https://watts-college.github.io/cpp-527-fall-2022/help/'
 
 instructor:
 -  name: Jesse Lecy
