@@ -23,18 +23,18 @@ info:
  discussion_board_url: 'https://watts-college.github.io/cpp-527-fall-2022/help/'
 
 instructor:
--  name: Jesse Lecy
-   title: Professor
-   email: jdlecy@asu.edu   
-   office_location: 'https://asu.zoom.us/j/87540573400'
-   website_url: http://www.lecy.info/
-   github_url: 'https://github.com/lecy' 
-   twitter_url: 
-   scholar_url: https://scholar.google.com/citations?user=Ir8H4wMAAAAJ&hl=en
-   linked_in_url:
+-  name: Moses Boudourides
+   title: Professor of Practice
+   email: Moses.Boudourides@asu.edu   
+   office_location: https://asu.zoom.us/j/4747048556
+   website_url: http://mboudour.github.io/about/
+   github_url: https://github.com/mboudour
+   twitter_url: https://twitter.com/mosabou
+   scholar_url: https://scholar.google.com/citations?user=IWN2LiYAAAAJ&hl=en
+   linked_in_url: https://www.linkedin.com/in/moses-boudourides-24aba121/
    office_hours_time: Flexible
    office_hours_location:  Zoom
-   office_hours_app_url: 'https://calendly.com/lecy/'
+   office_hours_app_url: https://calendly.com/moses-boudourides
    
 
 textbooks:
