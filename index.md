@@ -24,7 +24,7 @@ info:
 
 instructor:
 -  name: Moses Boudourides
-   title: Professor of Practice
+   title: SPA Professor of Practice
    email: Moses.Boudourides@asu.edu   
    office_location: https://asu.zoom.us/j/4747048556
    website_url: http://mboudour.github.io/about/
