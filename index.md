@@ -33,7 +33,7 @@ instructor:
    scholar_url: https://scholar.google.com/citations?user=IWN2LiYAAAAJ&hl=en
    linked_in_url: https://www.linkedin.com/in/moses-boudourides-24aba121/
    office_hours_time: Flexible
-   office_hours_location:  UCENT #444 and Zoom
+   office_hours_location:  UCENT 444 and Zoom
    office_hours_app_url: https://calendly.com/moses-boudourides
    
 
