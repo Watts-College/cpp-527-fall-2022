@@ -14,7 +14,7 @@ info:
  course_number: CPP 527 
  course_level: Graduate 
  course_website: 'https://canvas.asu.edu/courses/129784'
- course_start_end_dates: August 19th to October 8th, 2021
+ course_start_end_dates: August 18th to October 7th, 2022
  course_prerequisites:  
  class_meets_when:  Asynchronous  
  class_meets_where:  'https://asu.zoom.us/j/87540573400'
@@ -33,7 +33,7 @@ instructor:
    scholar_url: https://scholar.google.com/citations?user=IWN2LiYAAAAJ&hl=en
    linked_in_url: https://www.linkedin.com/in/moses-boudourides-24aba121/
    office_hours_time: Flexible
-   office_hours_location:  Zoom
+   office_hours_location:  UCENT #444 and Zoom
    office_hours_app_url: https://calendly.com/moses-boudourides
    
 
