@@ -2,7 +2,7 @@
 layout: review
 
 
-root-url: 'https://raw.githubusercontent.com/DS4PS/cpp-527-fall-2020/master/review-sessions/'
+root-url: 'https://raw.githubusercontent.com/Watts-College/cpp-527-fall-2022/master/review-sessions/'
 
 
 session: 
@@ -68,7 +68,7 @@ Live review sessions will be held each week in order to:
 > **MONDAYS**    
 > **12pm AZ time** 
 
-<a href='https://asu.zoom.us/j/87540573400' target=""> <button class="zoom">JOIN ZOOM MEETING</button></a>
+<a href='https://asu.zoom.us/j/4747048556' target=""> <button class="zoom">JOIN ZOOM MEETING</button></a>
 
 <br>
 
@@ -90,7 +90,7 @@ For those that cannot attend recordings of each session will be posted below.
 
 Feel free to schedule virtual office hours as well.   
 
-* Jesse Lecy: [AVAILABILITY](https://calendly.com/lecy/)
+* Moses Boudourides: [AVAILABILITY](https://calendly.com/moses-boudourides)
 
 
 <br> 
