@@ -14,7 +14,7 @@ yellowdig:
   post-04: 'Friday, September 9th' 
   post-05: 'Friday, September 16th' 
   post-06: 'Friday, September 23rd' 
-  post-07: 'Friday, October 7th' 
+  post-07: 'Friday, September 30th' 
   
 
 labs:
