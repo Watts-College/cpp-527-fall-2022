@@ -17,7 +17,7 @@ info:
  course_start_end_dates: August 18th to October 7th, 2022
  course_prerequisites:  
  class_meets_when:  Asynchronous  
- class_meets_where:  'https://asu.zoom.us/j/87540573400'
+ class_meets_where:  'https://asu.zoom.us/j/4747048556'
  review_sessions_when: Monday, 12pm AZ 
  review_sessions_where: Zoom
  discussion_board_url: 'https://watts-college.github.io/cpp-527-fall-2022/help/'
