@@ -2,13 +2,13 @@
 layout: default
 
 yellowdig: 
-  post-00: 'Friday, August 20th'
-  post-01: 'Friday, August 27th' 
-  post-02: 'Friday, September 3rd' 
-  post-03: 'Friday, September 10th' 
-  post-04: 'Friday, September 17th' 
-  post-05: 'Friday, September 24th' 
-  post-06: 'Friday, October 1st' 
+  post-00: 'Friday, August 19th'
+  post-01: 'Friday, August 26th' 
+  post-02: 'Friday, September 2nd' 
+  post-03: 'Friday, September 9th' 
+  post-04: 'Friday, September 16th' 
+  post-05: 'Friday, September 23rd' 
+  post-06: 'Friday, September 30th' 
   
 ---
 
@@ -49,7 +49,7 @@ You can start working on the practice problems at any time but please don't post
   
 Each question should have it's own pin. Please group responses to one question on one pin and avoid creating new pins when the question already exists.   
   
-<a class="uk-button uk-button-primary" href="https://asu-online.yellowdig.app/community/17592351249266">YELLOWDIG</a> 
+<a class="uk-button uk-button-primary" href="https://asu-online.yellowdig.app/community/62f2e44e-cba1-f478-fc59-c8ff4f5f9f8c">YELLOWDIG</a> 
   
 <hr>
 <br>
