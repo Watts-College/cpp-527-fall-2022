@@ -3,9 +3,9 @@ layout: default
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://canvas.asu.edu/courses/99223/assignments'
+  assignment_url: 'https://canvas.asu.edu/courses/129784/assignments'
   
-yellowdig_url: 'https://canvas.asu.edu/courses/99223/assignments/2552420'
+yellowdig_url: 'https://canvas.asu.edu/courses/129784/assignments/3440332'
 
 yellowdig: 
   post-01: 'Friday, August 19th'
